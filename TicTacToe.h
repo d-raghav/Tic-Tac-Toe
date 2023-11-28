@@ -1,9 +1,4 @@
-/*
- * TicTacToe.h
- *
- *  Created on: May 22, 2016
- *      Author: raydelto
- */
+
 
 #ifndef TICTACTOE_H_
 #define TICTACTOE_H_
